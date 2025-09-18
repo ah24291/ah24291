@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-### I am a Mathematics student, I enjoy solving complex problems in Pure and Applied Mathematics, as well as learning new concepts
-### Pronouns: He / Him
-### Interests: Music - I listen to a lot of diffferent genres of music, my favourite being Dark RnB; Gym - I enjoy working out and training; Going out with my friends;
-### Fun fact: Even though I am a Mathematics student, I secretly love English Literature
+### I am a Second Year BSc Mathematics student at Queen Mary University of London, and I aspire to study Part III of the Mathematical Tripos at the University of Cambridge.
 
 <!--
 **ah24291/ah24291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
